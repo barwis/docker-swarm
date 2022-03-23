@@ -18,16 +18,8 @@ networks:
 # My personal subnets list
 For reference purposes, here's my list
 
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-    
-
 |   Network         |   Range         |
 |-------------------|----------------:|
 | Traefik           | _unspecified_   |
-| Docker-cleanup	| 172.16.0.0/24   |
+| Docker-cleanup	  | 172.16.0.0/24   |
 | Emby              | 172.16.1.0/24   |

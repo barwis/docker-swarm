@@ -63,23 +63,11 @@ networks:
 >
 > &nbsp; 
 
-Launch the cleanup stack by running:
-```
-root@NAS:/docker/services/docker-cleanup# docker stack deploy docker-cleanup -c docker-compose.yml
-```
-> &nbsp;
->
-> Note: make sure you're in `/docker/services/docker-cleanup` directory, otherwise you'll need to adjust the path to .yml file
->
-> &nbsp; 
 
-Make sure it's been deployed correctly by running `docker stack ls`:
-```
-root@NAS:/docker/services/docker-cleanup# docker stack ls
-NAME                   SERVICES   ORCHESTRATOR
-docker-cleanup         1          Swarm
-```
+
 &nbsp;
+
+### [Launch the stack 🚀](https://github.com/barwis/docker-swarm/blob/master/docs/appx-1-cli-commands.md#launching-the-stack--and-confirming-its-running-)
 
 &nbsp;
 
@@ -132,23 +120,6 @@ services:
 
 &nbsp;
 
-
-Launch the cleanup stack by running:
-```
-root@NAS:/docker/services/docker-cleanup# docker stack deploy docker-cleanup -c docker-compose.yml
-```
-> &nbsp;
->
-> Note: make sure you're in `/docker/services/docker-cleanup` directory, otherwise you'll need to adjust the path to .yml file
->
-> &nbsp; 
-
-Make sure it's been deployed correctly by running `docker stack ls`:
-```
-root@NAS:/docker/services/docker-cleanup# docker stack ls
-NAME                   SERVICES   ORCHESTRATOR
-docker-cleanup         1          Swarm
-```
-&nbsp;
+### [Launch the stack 🚀](https://github.com/barwis/docker-swarm/blob/master/docs/appx-1-cli-commands.md#launching-the-stack--and-confirming-its-running-)
 
 &nbsp;

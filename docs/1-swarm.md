@@ -20,7 +20,7 @@ To add a manager to this swarm, run 'docker swarm join-token manager' and follow
 
 &nbsp;  
 
-2. Run docker node ls to confirm that you have a 1-node swarm:
+2. Run `docker node ls` to confirm that you have a 1-node swarm:
 
 ```
 [root@nas.local ~]# docker node ls

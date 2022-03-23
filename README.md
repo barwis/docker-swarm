@@ -10,3 +10,10 @@ This solution is based on amazing [Funky Penguin's Geek Cookbook](https://geek-c
 2. [Maintenance (optional)](https://github.com/barwis/docker-swarm/blob/master/docs/2-maintenance.md)
 3. [Traefik](https://github.com/barwis/docker-swarm/blob/master/docs/3-traefik.md)
 3. [Traefik forward auth (optional, but highly recommended)](https://github.com/barwis/docker-swarm/blob/master/docs/4-traefik-forward-auth.md)
+
+
+## Appendix:
+
+1. [CLI commands cheatsheet](https://github.com/barwis/docker-swarm/blob/master/docs/appx-1-cli-commands.md)
+2. [Unique subnets list](https://github.com/barwis/docker-swarm/blob/master/docs/appx-2-subnets.md)
+2. [Basic service template](https://github.com/barwis/docker-swarm/blob/master/docs/appx-3-service-template.md)
